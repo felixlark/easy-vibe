@@ -70,3 +70,5 @@ There is no dedicated test framework in this repo. Use `npm run build` as the pr
 - Initialize dependencies inside each worktree and keep ports, databases, device/simulator state, build outputs, and ignored local config isolated per checkout.
 - Preserve existing dirty checkouts. Inspect `git status --short` before editing, and do not stash, commit, remove, or migrate user changes unless explicitly asked.
 - After merge or abandonment, clean up with `git worktree remove <path>` and use `git worktree prune` only for stale metadata.
+
+项目当前生命周期以 Cabinet 登记的 `unknown` 状态保持，待所属部门核验原项目事项、真实承接和恢复条件后再进入正式活动路由。
