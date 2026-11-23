@@ -3,7 +3,7 @@
 
 ## 团队项目职位与协作入口
 
-- 本仓负责Easy Vibe 课程网站、VitePress 页面与可运行教学例子。项目**经理**统筹原 Issue、方案与结果交付；项目**专员**负责获准的具体工作、质量验证和真实交付证据。
+- 本仓负责Easy Vibe 课程网站、VitePress 页面与可运行教学例子。项目**主任**统筹原 Issue、方案与结果交付；项目**专员**负责获准的具体工作、质量验证和真实交付证据。
 - 用户战略议事与团队通则经 **ChatGPT 办公室**（秘书长 Bot／秘书）办理；跨组织公文由 GitHub Issue／PR 传递，项目组内部在实际授权范围使用 A2A。
 - 团队正本：[Cabinet/GOVERNANCE.md](https://github.com/smart-shadow/Cabinet/blob/main/GOVERNANCE.md)；规范仓与责任：[团队组织登记册](https://github.com/smart-shadow/Cabinet/blob/main/organization/team-project-registry.md)；跨端版本：[同步规范](https://github.com/smart-shadow/Cabinet/blob/main/organization/source-sync.md)。
 - 网页内容、交互例子和站点构建沿本仓现有开发命令与验证约束执行。 项目生命周期与真实绑定依据原 Issue、当前 writer 及官方运行配置确认。
